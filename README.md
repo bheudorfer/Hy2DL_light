@@ -1,4 +1,4 @@
-# Hy<sup>2</sup>DL_light: Hybrid Hydrological modeling using Deep Learning methods - the "light" version
+# Hy<sup>2</sup>DL_light: Hydrological modeling using Deep Learning methods - the "light" version
 ![Hy2DL Logo](https://raw.githubusercontent.com/eduardoAcunaEspinoza/Hy2DL/main/docs/source/_static/Hy2DL.png)
 
 <p align="justify">
